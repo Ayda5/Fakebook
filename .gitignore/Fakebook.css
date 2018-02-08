@@ -1,0 +1,65 @@
+.body {
+    background-image: https://images8.alphacoders.com/429/429927.jpg;
+    background-size: cover;
+}
+ 
+.img {
+    display: block;
+    margin: auto;
+    width: 10%;
+    overflow:visible,
+}
+ 
+.name {
+    text-align: center;
+}
+ 
+.h1 {
+    font-family: "Lucida Sans Regular";
+    color: #FF0D9E;
+    height: 90px;
+    line-height: 90px;
+    text-align: center;
+}
+ 
+.h2 {
+    font-family: "Lucida Sans Regular";
+    color: #E0738F;
+    height: 10px;
+    line-height: 5px;
+    text-align: center;
+}
+ 
+.h3 {
+    font-family: "Lucida Sans Regular";
+    color: #000
+    height: 20px;
+    line-height: 5px;
+    text-align: center;
+}
+ 
+.prijatelji{
+    text-align: center;
+}
+ 
+.button{
+    text-align: center;
+}
+ 
+.about{
+    text-align: center;
+}
+ 
+.p {
+    font-family: "Lucida Sans Regular";
+    color: #000;
+    height: 10px;
+    line-height: 5px;
+    text-align: center;
+}
+ 
+.button {
+    height: 20px;
+    line-height: 10px;
+    text-align: center;
+}
